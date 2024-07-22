@@ -1,5 +1,7 @@
 # GiuliaAI VTuber Project Documentation
 
+*[Indice](https://github.com/GiuliaAI/legal/blob/main/README.md)*
+
 ## 7. Conformità Normativa
 
 ### Valutazione del Rischio

@@ -1,5 +1,7 @@
 # GiuliaAI VTuber Project Documentation
 
+*[Indice](https://github.com/GiuliaAI/legal/blob/main/README.md)*
+
 ## 1. Descrizione Generale del Sistema
 
 ### Obiettivo e Funzionalità

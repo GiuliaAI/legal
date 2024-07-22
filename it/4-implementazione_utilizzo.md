@@ -1,6 +1,6 @@
 # GiuliaAI VTuber Project Documentation
 
-**[Indice](https://github.com/GiuliaAI/legal/blob/main/README.md)**
+*[Indice](https://github.com/GiuliaAI/legal/blob/main/README.md)*
 
 ## 4. Implementazione e Utilizzo
 
